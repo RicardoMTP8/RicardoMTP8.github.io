@@ -1,6 +1,16 @@
 <style>
   
- header, footer {
+ header {
+    padding: 30px;
+    color: white;
+    background-color: rgb(204,204,255);
+    clear: left;
+    text-align: center;
+     font-size:2cm;
+  font-family:arial;
+}
+
+footer {
     padding: 30px;
     color: white;
     background-color: rgb(204,204,255);
